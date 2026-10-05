@@ -2,10 +2,10 @@ Markdown
 <div align="center">
 
 <!-- Títol principal acolorit -->
-# 🚀 Hola! Soc en Biel Claveria 👋
+# 🚀 Hola! Soc en Biel Clave 👋
 
 [![Perfil SMX](https://img.shields.io/badge/Estudiant-SMX-007ACC?style=for-the-badge&logo=windows&logoColor=white)](#)
-[![Atleta d'Elit](https://img.shields.io/badge/Atleta-D'Elit-FF4500?style=for-the-badge&logo=runkeeper&logoColor=white)]([text](https://worldathletics.org/athletes/spain/biel-clave-15207253))
+[![Atleta d'Elit](https://img.shields.io/badge/Atleta-D'Elit-FF4500?style=for-the-badge&logo=runkeeper&logoColor=white)](https://worldathletics.org/athletes/spain/biel-clave-15207253)
 [![Email](https://img.shields.io/badge/Contacta'm-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bielclaveshotput@gmail.com)
 
 </div>
@@ -36,16 +36,6 @@ Actualment estic cursant el **Cicle Formatiu de Grau Mitjà en Sistemes Microinf
 ---
 
 ## 🛠 Competències i Tecnologies relacionades amb SMX
-
-+-------------------------------------------------------+
-|              HABILITATS I TECNOLOGIES                 |
-+-------------------------------------------------------+
-|  [Sistemes Operatius] -> Windows, Linux (Ubuntu/Debian)
-|  [Xarxes]              -> Encaminament, Switching, TCP/IP
-|  [Hardware]           -> Muntatge, Diagnòstic, Manteniment
-|  [Atenció Tècnica]    -> Suport a usuaris, Vendes
-+-------------------------------------------------------+
-
 
 | Àrea | Tecnologies i Eines |
 | :--- | :--- |
