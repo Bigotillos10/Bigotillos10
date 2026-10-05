@@ -4,7 +4,7 @@
 # 🚀 Hola! Soc en Biel Claveria 👋
 
 [![Perfil SMX](https://img.shields.io/badge/Estudiant-SMX-007ACC?style=for-the-badge&logo=windows&logoColor=white)](#)
-[![Atleta d'Elit](https://img.shields.io/badge/Atleta-D'Elit-FF4500?style=for-the-badge&logo=runkeeper&logoColor=white)](#)
+[![Atleta d'Elit](https://img.shields.io/badge/Atleta-D'Elit-FF4500?style=for-the-badge&logo=runkeeper&logoColor=white)](https://worldathletics.org/athletes/spain/biel-clave-15207253)
 [![Email](https://img.shields.io/badge/Contacta'm-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bielclaveshotput@gmail.com)
 
 </div>
